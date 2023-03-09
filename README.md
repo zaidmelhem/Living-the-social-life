@@ -11,4 +11,14 @@ https://zaidmelhem.github.io/responsive-website/index.html
 ## Acknowledgements
 
  - [Introduction To Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s)
+ 
+ 
+ ## Installation
+ 
+There are no requirements for downloading this project, <br> just download the src code and run it on a browser
+
+## Authors
+
+- [@zaidmelhem](https://github.com/zaidmelhem)
+
 
